@@ -17,7 +17,7 @@ This repo is of our startup`s website. Me and my friends are going to launch a s
 1. Django
 
 ### Database
-1. eqlLite
+1. sqlLite
 
 ### ORM
 1. Django Object-Relational Mapper.
